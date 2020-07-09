@@ -1,5 +1,4 @@
 # One-Stop-Solutions
-# Library Portal (in Spring)
 
 * A web application based on MVC pattern built to cater user’s home-based
 services by bringing users & service-providers at the same platform.
