@@ -1,0 +1,116 @@
+#sp {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	border-collapse: collapse;
+	width: 60%;
+	margin-left: 35%;
+	margin-top: 30px;
+}
+
+#sp td, #sp th {
+	border: 1px solid #ddd;
+	padding: 8px;
+}
+
+#sp tr: {
+	opacity: 0.9;
+	background-color: white;
+}
+
+#sp tr:hover {
+	background-color: #ddd;
+}
+
+#sp th {
+	padding-top: 12px;
+	padding-bottom: 12px;
+	text-align: left;
+	background-color: black; /*   #4CAF50 */
+	color: white;
+}
+
+body {
+	margin: 0px;
+	font-family: verdana;
+	overflow: hidden;
+	background-size: cover;
+}
+
+#nav {
+	background: white;
+	margin: 0px;
+	border-bottom: 1px solid #16263d;
+	width: 100%;
+	overflow: hidden;
+	padding: 0px 0px 0px 25px;
+	height: 63px;
+	margin-top: 0px;
+}
+
+h1 {
+	width: 400px;
+}
+
+ul {
+	margin-top: 30px;
+	padding-left: 600px;
+	list-style: none;
+}
+
+li {
+	float: left;
+	font-size: 22px;
+	margin-right: 10px;
+}
+
+a {
+	margin-top: 60px;
+	text-decoration: none;
+	color: #16263d;
+	border-bottom: none;
+	padding: 8px;
+	border-top-left-radius: 2px;
+	border-top-right-radius: 2px;
+}
+
+a:hover {
+	color: white;
+	background: #16263d;
+	transition: background 100ms ease-in;
+}
+
+a#onclick {
+	background: #16263d;
+	color: white;
+}
+
+a#onclick:hover {
+	background: #16263d;
+	color: white;
+}
+
+img {
+	height: 20px;
+	width: 20px;
+}
+
+#nav h3 {
+	margin-top: 10px;
+	color: #16263d;
+	margin-left: 10px;
+}
+
+input[type=submit] {
+	width: 200px;
+	background-color: green;
+	color: white;
+	padding: 10px 20px;
+	margin-bottom: 10px;
+	margin-left: 70%;
+	border: none;
+	border-radius: 4px;
+	cursor: pointer;
+}
+
+input[type=submit]:hover {
+	background-color: darkgreen;
+}

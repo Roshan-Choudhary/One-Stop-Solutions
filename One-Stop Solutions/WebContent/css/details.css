@@ -1,0 +1,23 @@
+#ud {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	border-collapse: collapse;
+	width: 25%;
+	margin-left: 55%;
+	margin-top: 30px;
+}
+
+#ud td, #ud th {
+	padding: 8px;
+}
+
+#ud th {
+	text-align: left;
+}
+
+#ud td {
+	color: white;
+}
+
+p {
+	text-transform: uppercase;
+}

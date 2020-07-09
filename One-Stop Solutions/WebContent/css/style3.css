@@ -1,0 +1,75 @@
+body {
+	margin: 0;
+	padding: 0;
+	background-size: cover;
+	background-position: top;
+	font-family: serif;
+}
+
+#form {
+	padding-left: 50px;
+	padding-top: 40px;;
+	width: 300px;
+	height: 350px;
+	background: black;
+	opacity: 0.7;
+	color: white;
+	top: 50%;
+	left: 50%;
+	position: absolute;
+	transform: translate(-50%, -50%);
+	box-sizing: border-box;
+	border-radius: 8px;
+}
+
+#icon {
+	width: 100px;
+	height: 100px;
+	border-radius: 50%;
+	position: absolute;
+	top: -50px;
+	left: calc(50% - 50px);
+}
+
+input[type=text] {
+	font-family: monospace;
+	margin-bottom: 10px;
+	margin-top: 0px;
+	border: 1px solid black;
+	border-radius: 5px;
+	outline: inherit;
+	height: 27px;
+	width: 200px;
+}
+
+input[type=password] {
+	font-family: monospace;
+	margin-bottom: 15px;
+	margin-top: 0px;
+	border: 1px solid black;
+	border-radius: 5px;
+	outline: inherit;
+	height: 27px;
+	width: 200px;
+}
+
+input[type=submit] {
+	width: 200px;
+	background-color: green;
+	color: white;
+	padding: 10px 20px;
+	margin-bottom: 10px;
+	border: none;
+	border-radius: 4px;
+	cursor: pointer;
+}
+
+input[type=submit]:hover {
+	background-color: darkgreen;
+}
+
+#back {
+	height: 40px;
+	width: 40px;
+	margin: 20px;
+}
