@@ -11,7 +11,7 @@ with MySQL as database tool
 
 ## Tools & Frameworks
 
-The application is written MVC pattern.
+The application is written in MVC pattern.
 
 **Database & configuration**
 * MySQL
