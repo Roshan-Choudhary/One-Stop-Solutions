@@ -3,7 +3,7 @@
 * A web application based on MVC pattern built to cater user’s home-based
 services by bringing users & service-providers at the same platform.
 * It is created using Core & Advanced Java concepts (JSP, Servlets, JDBC)
-with MySQL as database tool
+with MySQL as database tool.
 
 ## Description
 
@@ -19,7 +19,7 @@ The application is written in MVC pattern.
 * Git
 
 **Backend technologies**
-* Java EE - Servlets
+* Java EE 
 * Java SE
 * JDBC
 
@@ -113,8 +113,8 @@ The application is written in MVC pattern.
 
   * Logout
   
-  ![Database]()
+  ![Database](https://github.com/Roshan-Choudhary/One-Stop-Solutions/blob/master/Screenshots/15.LogOut.png)
   
   * After Logout
   
-  ![Database]()
+  ![Database](https://github.com/Roshan-Choudhary/One-Stop-Solutions/blob/master/Screenshots/16.AfterLogout.png)
