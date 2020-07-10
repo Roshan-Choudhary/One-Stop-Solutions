@@ -29,7 +29,10 @@ The application is written in MVC pattern.
 * JSP
 
 ## Database Diagram
-
+  
+  *ER Diagram
+  
+  ![Database]https://github.com/Roshan-Choudhary/One-Stop-Solutions/blob/master/Screenshots/ER%20Diagram.jpg
 
 
 ## Screenshots
