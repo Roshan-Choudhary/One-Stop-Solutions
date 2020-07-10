@@ -30,11 +30,91 @@ The application is written in MVC pattern.
 
 ## Database Diagram
   
-  *ER Diagram
+  * ER Diagram
   
-  ![Database]https://github.com/Roshan-Choudhary/One-Stop-Solutions/blob/master/Screenshots/ER%20Diagram.jpg
+  ![Database](https://github.com/Roshan-Choudhary/One-Stop-Solutions/blob/master/Screenshots/ER%20Diagram.jpg)
+  
+  * EER Diagram
+  
+  ![Database](https://github.com/Roshan-Choudhary/One-Stop-Solutions/blob/master/Screenshots/EER%20diagram.JPG)
 
 
 ## Screenshots
 
 
+  * Index
+  
+  ![Database](https://github.com/Roshan-Choudhary/One-Stop-Solutions/blob/master/Screenshots/1.Index.png)
+
+
+  * Service Provider Registration Window
+  
+  ![Database](https://github.com/Roshan-Choudhary/One-Stop-Solutions/blob/master/Screenshots/2.ServiceProviderRegistration.png)
+
+
+  * User Login
+  
+  ![Database](https://github.com/Roshan-Choudhary/One-Stop-Solutions/blob/master/Screenshots/3.UserLogin.png)
+
+
+  * New User Registration
+  
+  ![Database](https://github.com/Roshan-Choudhary/One-Stop-Solutions/blob/master/Screenshots/4.UserRegistration.png)
+
+
+  * Registered User Login
+  
+  ![Database](https://github.com/Roshan-Choudhary/One-Stop-Solutions/blob/master/Screenshots/5.RegisteredUserLogin.png)
+
+
+  * Homepage
+  
+  ![Database](https://github.com/Roshan-Choudhary/One-Stop-Solutions/blob/master/Screenshots/6.HomePage.png)
+
+
+  * Search Window
+  
+  ![Database](https://github.com/Roshan-Choudhary/One-Stop-Solutions/blob/master/Screenshots/7.SearchWindow.png)
+
+
+  * Search Result
+  
+  ![Database](https://github.com/Roshan-Choudhary/One-Stop-Solutions/blob/master/Screenshots/8.SearchResult.png)
+
+
+  * Booking Successful
+  
+  ![Database](https://github.com/Roshan-Choudhary/One-Stop-Solutions/blob/master/Screenshots/9.BookingSuccessful.png)
+
+
+  * Active Bookings
+  
+  ![Database](https://github.com/Roshan-Choudhary/One-Stop-Solutions/blob/master/Screenshots/10.ActiveBookings.png)
+
+
+  * Cancellation Successful
+  
+  ![Database](https://github.com/Roshan-Choudhary/One-Stop-Solutions/blob/master/Screenshots/12.ActiveBookinAfterCancellation.png)
+
+
+  * Active Booking After Cancellation
+  
+  ![Database](https://github.com/Roshan-Choudhary/One-Stop-Solutions/blob/master/Screenshots/12.ActiveBookinAfterCancellation.png)
+
+
+  * Cancellation History
+  
+  ![Database](https://github.com/Roshan-Choudhary/One-Stop-Solutions/blob/master/Screenshots/13.CancellationHistory.png)
+
+
+  * User details Window
+  
+  ![Database](https://github.com/Roshan-Choudhary/One-Stop-Solutions/blob/master/Screenshots/14.UserDetailsWindow.png)
+
+  * Logout
+  
+  ![Database]()
+  
+  * After Logout
+  
+  ![Database]()
